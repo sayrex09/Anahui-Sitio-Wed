@@ -35,7 +35,7 @@
 
 ### Diagrama de Componentes
 
-![Arquitectura Anahui](./frontend/src/assets/arquitectura-anahui.svg)
+![Arquitectura Anahui](./frontend/src/assets/Diagrama%20de%20Arquitectura.svg)
 
 - **Frontend**: Aplicación React + Vite
 - **Backend**: Spring Boot REST API
